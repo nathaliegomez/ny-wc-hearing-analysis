@@ -18,7 +18,7 @@ The analysis was conducted in Python for data cleaning and exploratory data anal
 - **Python** — data cleaning, exploratory data analysis (pandas, matplotlib, seaborn)
 - **Jupyter Notebook** — analysis and documentation
 - **Tableau** — interactive dashboard and presentation
-- **Data Source** — [Assembled Workers' Compensation Claims: Beginning 2000](https://catalog.data.gov/dataset/assembled-workers-compensation-claims-beginning-2000), published by the New York State Workers' Compensation Board via data.ny.gov (last updated March 23, 2026)
+- **Data Source** — [Assembled Workers' Compensation Claims: Beginning 2000](https://data.ny.gov/Government-Finance/Assembled-Workers-Compensation-Claims-Beginning-20/jshw-gkgu/about_data), published by the New York State Workers' Compensation Board via data.ny.gov (last updated March 23, 2026)
 
 ---
 
