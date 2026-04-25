@@ -71,8 +71,8 @@ ny-wc-hearing-analysis/
 │   └── data_source.md         # Link to data.ny.gov source (dataset too large to upload)
 │
 ├── notebooks/
-│   ├── 01_data_cleaning.ipynb # Data cleaning and derived variable creation
-│   └── 02_eda.ipynb           # Exploratory data analysis and Python visualizations
+│   ├── 01_wc_data_cleaning.ipynb # Data cleaning and derived variable creation
+│   └── 02_wc_eda.ipynb           # Exploratory data analysis and Python visualizations
 │
 ├── visuals/
 │   ├── python_charts/         # Screenshots of Python EDA charts
